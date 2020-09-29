@@ -1,0 +1,1 @@
+This folder contains step by step snaps of working of project.
