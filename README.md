@@ -9,3 +9,5 @@
   >              INPUT:   `birthyear = 1996` \
   > \
   >              OUTPUT:   `You are 8760 Days old..!!`
+
+### STEP 1 : 
