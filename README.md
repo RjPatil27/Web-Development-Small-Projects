@@ -10,4 +10,3 @@
   > \
   >              OUTPUT:   `You are 8760 Days old..!!`
 
-### STEP 1 : 
