@@ -1,0 +1,4 @@
+This project is to understand more of a understanding of HTML and CSS rather than JavaScript.
+In this project, we will be understanding concept of Flexbox and wrapping in it.
+This project is random image generator.
+In that after clicking on button we can generate random 6 images.
