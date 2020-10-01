@@ -10,3 +10,4 @@
   > \
   >              OUTPUT:   `You are 8760 Days old..!!`
 
+## [Project 2 : Random Image Generator](https://github.com/RjPatil27/JavaScript/tree/master/Project%202)
