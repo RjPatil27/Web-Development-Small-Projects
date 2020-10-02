@@ -12,6 +12,13 @@
 
 ## [Project 2 : Random Image Generator](https://github.com/RjPatil27/JavaScript/tree/master/Project%202)
 This project is to understand more of a understanding of HTML and CSS rather than JavaScript. \
+\
 In this project, we will be understanding concept of Flexbox and wrapping in it. \
+\
 This project is random image generator. \
 In that after clicking on button we can generate random 6 images.
+
+> For random images, I am using following link, \
+>       Link: https://loremflickr.com \
+>       Link Using direction: In above link, just add height, width and catagory of image  you need. \
+>       Example: https://loremflickr.com/200/150/animals
