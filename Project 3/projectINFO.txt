@@ -1,0 +1,5 @@
+Project 3 is solely for  understanding concepts like DOM module, Object Oriented Programming, Function creation and use etc. in JavaScript.
+This project is simple game of Rock, Paper and Scissors.
+Using HTML and CSS, this project includes visual working with important touch of JavaScript. 
+
+For more information check snapshots of code too.
