@@ -22,3 +22,5 @@ In that after clicking on button we can generate random 6 images.
 >       Link: https://loremflickr.com \
 >       Link Using direction: In above link, just add height, width and catagory of image  you need. \
 >       Example: https://loremflickr.com/200/150/animals
+
+## [Project 3 : Rock, Paper and Scissors game](https://github.com/RjPatil27/JavaScript/tree/master/Project%203)
