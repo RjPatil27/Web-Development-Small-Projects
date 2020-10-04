@@ -1,0 +1,29 @@
+.container{
+    margin:0 auto;
+    padding:10px;
+    border:2px solid black;
+    width: 75%;
+    align-items: center;
+}
+
+.container h2{
+    text-align: center;
+}
+
+.flex-box-container{
+    border: 1px solid brown;
+    padding:10px ;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;    
+}
+
+.flex-box-container img{
+    border: 1px solid black;
+    box-shadow: 0px 10px 50px rgb(133 120 120);
+    margin: 10px auto;
+}
+
+.flex-box-container img:hover{
+    box-shadow: 0px 10px 50px rgb(255 21 53);
+}
