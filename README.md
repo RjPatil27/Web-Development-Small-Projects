@@ -27,4 +27,5 @@ In that after clicking on button we can generate random 6 images.
 Project 3 is solely for  understanding concepts like DOM module, Object Oriented Programming, Function creation and use etc. in JavaScript. \
 This project is simple game of Rock, Paper and Scissors. \
 Using HTML and CSS, this project includes visual working with important touch of JavaScript. \
-> For example : As we all know how Rock, Paper, Scissors work. 
+> For example : As we all know how Rock, Paper, Scissors work. \
+> Rock beats Scissors || Paper beats Rock || Scissors beats Paper. 
