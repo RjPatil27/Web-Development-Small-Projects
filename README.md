@@ -24,3 +24,7 @@ In that after clicking on button we can generate random 6 images.
 >       Example: https://loremflickr.com/200/150/animals
 
 ## [Project 3 : Rock, Paper and Scissors game](https://github.com/RjPatil27/JavaScript/tree/master/Project%203)
+Project 3 is solely for  understanding concepts like DOM module, Object Oriented Programming, Function creation and use etc. in JavaScript. \
+This project is simple game of Rock, Paper and Scissors. \
+Using HTML and CSS, this project includes visual working with important touch of JavaScript. \
+> For example : As we all know how Rock, Paper, Scissors work. 
