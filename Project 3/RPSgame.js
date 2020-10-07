@@ -57,6 +57,7 @@ function ShowFinalResult(humanchoice,computerchoice
         document.getElementById('scissors').remove()
 
         //Human Choice show
+        // Method-1
         var humanresult = document.createElement('img');
         var div = document.getElementById('flex-box-container-div');
         humanresult.src = humanchoice.concat('.jpg');
@@ -66,10 +67,11 @@ function ShowFinalResult(humanchoice,computerchoice
         console.log(humanchoice.concat('.jpg'));
         div.appendChild(humanresult);
 
+        //Method-2
         // var humanresult = document.createElement('div');
-        // humanresult.innerHTML = "<img sr='" + humanchoice.concat('.jpg') +  "' height=150 width=170";
+        // humanresult.innerHTML = "<img src='" + humanchoice +  ".jpg' height=150 width=170>";
         // console.log(humanresult);
-        // document.getElementById('flex-box-container-div').appendChild(humanresult);
+        // div.appendChild(humanresult);
 
 
         //Final Message show
@@ -86,17 +88,28 @@ function ShowFinalResult(humanchoice,computerchoice
         }
         // Finalmsg.className = 'text-center';            
 
-
         var text = document.createTextNode(message.msg);
         console.log(Finalmsg.appendChild(text));
-        console.log(Finalmsg);
+        // console.log(Finalmsg);
         div.appendChild(Finalmsg);
 
+
+
         //Computer Choice show
+
+        //Method - 1
+
         var computerresult = document.createElement('img');
         computerresult.src = computerchoice.concat('.jpg');
         computerresult.height = 150;
         computerresult.width = 170;
         div.appendChild(computerresult);
+
+        //Method - 2
+        // var computerresult = document.createElement('div');
+        // computerresult.innerHTML = "<img src='" + computerchoice + ".jpg' height=150 width=170>";
+        // console.log(computerresult);
+        // div.appendChild(computerresult);
+
 
 }
