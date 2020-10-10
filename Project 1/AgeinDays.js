@@ -1,6 +1,5 @@
 //JavaScript file for Project 1
 
-
 //JavaScript Code : Age into Days.
 function AgeinDays(){
     let birthyear = prompt('What is your birthyear??');
