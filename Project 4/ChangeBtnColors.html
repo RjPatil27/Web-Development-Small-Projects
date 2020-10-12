@@ -1,3 +1,5 @@
+<!-- Project 4 : Change colors of all buttons as per need -->
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -24,7 +26,13 @@
         <h2>Project 4 : Change Buttons Colors</h2>
         <div class="flex-box-container">
             <form action="">     <!--select elemet- menu -->
-            <select name="backdrop" id="background" onchange="buttonColorChange(this)"></select>
+                <select name="backdrop" id="background" onchange="buttonColorChange(this)">
+                <option value="random">Random</option>
+                <option value="red">Red</option>
+                <option value="green">Green</option>
+                <option value="blue">Blue</option>
+                <option value="reset">Reset</option>
+                </select>
             </form>
             <button class="btn btn-primary" id="menu">Instagram</button>
             <button class="btn btn-danger" >Facebook</button>
