@@ -1,2 +1,2 @@
-This is simple project of chanding button color as per situation. 
+This is simple project of changing button color as per situation. 
 We can use this project to indicate some situations on our website like Warning/Danger/Info etc. 
