@@ -3,7 +3,7 @@
     padding:10px;
     border:2px solid lightsalmon;
     width: 75%;
-    align-items: center;
+    align-items: center;            /* Align item to center */
 }
 
 .container h2{
@@ -14,7 +14,7 @@
     border: 1px solid brown;
     padding:10px ;
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: wrap;                /* The flex-wrap property specifies whether the flexible items should wrap or not. */
     justify-content:space-around;    
 }
 
