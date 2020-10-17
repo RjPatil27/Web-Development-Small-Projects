@@ -4,7 +4,7 @@ function rpsGame(yourChoice){
     console.log(yourChoice.id);
     var humanchoice, computerchoice;
     humanchoice = yourChoice.id;
-    computerchoice = ['rock','paper','scissors'][randomNumber()];
+    computerchoice = ['rock','paper','scissors'][randomNumber()];      
     console.log(computerchoice);
     results = DecisionMaker(humanchoice,computerchoice);  //it will return result as 0 or 1 or 0.5 (win, lose, tied)
     console.log(results);
@@ -14,7 +14,7 @@ function rpsGame(yourChoice){
 }
 
 function randomNumber(){
-    return Math.floor(Math.random() * 3);
+    return Math.floor(Math.random() * 3);           //Math() is library for mathematics methods like floor, abs, sqrt etc
 }
 
 function DecisionMaker(humanchoice, computerchoice){
