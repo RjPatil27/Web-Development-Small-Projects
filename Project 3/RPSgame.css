@@ -25,5 +25,5 @@
 }
 
 .flex-box-container img:hover{
-    box-shadow: 0px 10px 50px rgb(255 21 53);
+    box-shadow: 0px 10px 50px rgb(255 21 53);       /* box-shadow provides shadow to selected object */
 }
