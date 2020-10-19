@@ -76,7 +76,7 @@ function ShowFinalResult(humanchoice,computerchoice
 
         //Final Message show
         var Finalmsg = document.createElement('h2');
-
+        //logic to get color value and show final message in that color
         if(message.color == 'green'){
             Finalmsg.className = 'text-success';
         }else{
