@@ -37,3 +37,4 @@ Working :
 * Comparing two choices, Result is shown with User's Choice and Computer's Choice.
 
 ## [Project 4 : Change Buttons colors as per need / Randomly](https://github.com/RjPatil27/JavaScript/tree/master/Project%204)
+Due to some error this project is going to be uploaded later.
