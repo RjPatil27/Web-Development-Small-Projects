@@ -40,3 +40,4 @@ Working :
 Due to some error this project is going to be uploaded later.
 
 ## [Project 5 : BlackJack Challenge](https://github.com/RjPatil27/JavaScript/tree/master/Project%205)
+simple Blackjack project to understand JavaScript. 
