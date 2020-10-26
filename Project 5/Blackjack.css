@@ -1,0 +1,65 @@
+.container{
+    border: 2px solid black;
+    padding:10px;
+    margin: 40px 0px 0px 0px;
+    width: 75%;
+    align-items: center;
+}
+
+.container h2{
+    text-align: center;
+    color: #3F504D;
+}
+
+.container h3{
+    text-align: center;
+    color:#129BA5;
+}
+
+.flex-box-row1{
+    background: url('pockerbackground.jpg');
+    display: flex;
+    border: 1px solid black;
+    padding: 10px;
+    flex-wrap:wrap ;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#your-box{
+    display: flex;
+    width: 45%;
+    border: 1px solid grey;
+    padding: 5px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#your-box h2{
+    color: white;
+}
+
+#bot-box{
+    display: flex;
+    width: 45%;
+    border: 1px solid grey;
+    padding: 5px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#bot-box h2{
+    color: white;
+}
+
+
+.flex-box-row2{
+    display: flex;
+    border: 1px solid black;
+    padding: 5px;
+    flex-wrap:wrap ;
+    flex-direction: row;
+    justify-content:space-evenly;
+}
