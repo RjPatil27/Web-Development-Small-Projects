@@ -41,3 +41,5 @@ Due to some error this project is going to be uploaded later.
 
 ## [Project 5 : BlackJack Challenge](https://github.com/RjPatil27/JavaScript/tree/master/Project%205)
 Simple Blackjack project to understand JavaScript,HTML and CSS. 
+Blackjack is a card game.
+In this project, fuctioning of project works as we have to pick a card randomly from deck.
