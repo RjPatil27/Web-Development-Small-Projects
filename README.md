@@ -40,9 +40,9 @@ Working :
 Due to some error this project is going to be uploaded later.
 
 ## [Project 5 : BlackJack Challenge](https://github.com/RjPatil27/JavaScript/tree/master/Project%205)
-Simple Blackjack project to understand JavaScript,HTML and CSS. 
-To whom, who don't know Blackjack, Blackjack is a card game.
-In this project, fuctioning of project works as we have to pick a card randomly from deck.
-And we have to add that cards total to near 21. 
-Similarly, Computer picks cards and to make his total near 21.
-Whoever has total near 21, wins a game.
+Simple Blackjack project to understand JavaScript,HTML and CSS. \
+To whom, who don't know Blackjack, Blackjack is a card game. \
+In this project, fuctioning of project works as we have to pick a card randomly from deck. \
+And we have to add that cards total to near 21. \
+Similarly, Computer picks cards and to make his total near 21. \
+Whoever has total near 21, wins a game. \
