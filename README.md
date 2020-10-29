@@ -45,4 +45,4 @@ To whom, who don't know Blackjack, Blackjack is a card game. \
 In this project, fuctioning of project works as we have to pick a card randomly from deck. \
 And we have to add that cards total to near 21. \
 Similarly, Computer picks cards and to make his total near 21. \
-Whoever has total near 21, wins a game. \
+Whoever has total near 21, wins a game. 
