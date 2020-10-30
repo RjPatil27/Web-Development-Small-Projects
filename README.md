@@ -47,15 +47,15 @@ And we have to add that cards total to near 21. \
 Similarly, Computer picks cards and to make his total near 21. \
 Whoever has total near 21, wins a game. 
 
-For example, 
-There are 2 players, User 1 and User 2.
-Algorithm :
-i) User 1 selected first card consider here 3 of spades(3 point). 
-ii) User 2 selected first card consider here 7 of hearts(7 point).
-iii) User 1 selected second card consider here Queen of heart(12 point).
-iv) User 2 selected second card consider here 10 of diamond(10 points).
-v) Here User 1 has total 15 point if he selects card which is less than 6 point then it will be perfect score i.e. 21 or near 21.
+>For example, 
+>There are 2 players, User 1 and User 2.
+>Algorithm :
+>i) User 1 selected first card consider here 3 of spades(3 point). 
+>ii) User 2 selected first card consider here 7 of hearts(7 point).
+>iii) User 1 selected second card consider here Queen of heart(12 point).
+>iv) User 2 selected second card consider here 10 of diamond(10 points).
+>v) Here User 1 has total 15 point if he selects card which is less than 6 point then it will be perfect score i.e. 21 or near 21.
    If he selects card which is of more than 6 points then User 1 will lose the game.
-vi) Similar conditions for User 2 also who has total 17 point. 
-vii) If both player draw their game on current points then as User 2 has higher point i.e 17 than User 1's point i.e. 15, 
+>vi) Similar conditions for User 2 also who has total 17 point. 
+>vii) If both player draw their game on current points then as User 2 has higher point i.e 17 than User 1's point i.e. 15, 
      User 2 will win the game. 
