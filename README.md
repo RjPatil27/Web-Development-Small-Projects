@@ -46,7 +46,7 @@ In this project, fuctioning of project works as we have to pick a card randomly 
 And we have to add that cards total to near 21. \
 Similarly, Computer picks cards and to make his total near 21. \
 Whoever has total near 21, wins a game. 
-\
+
 >For example, \ 
 >There are 2 players, User 1 and User 2. \
 >Algorithm : \
@@ -58,4 +58,4 @@ Whoever has total near 21, wins a game.
    If he selects card which is of more than 6 points then User 1 will lose the game. \
 >vi) Similar conditions for User 2 also who has total 17 point. \
 >vii) If both player draw their game on current points then as User 2 has higher point i.e 17 than User 1's point i.e. 15, \
-     User 2 will win the game. \
+     User 2 will win the game. 
