@@ -48,8 +48,8 @@ Similarly, Computer picks cards and to make his total near 21. \
 Whoever has total near 21, wins a game. \
 \
 Here we are three option, \
-* Pick : use to pick card from deck. \
-* Draw : use to draw round. \
+* Pick : use to pick card from deck. 
+* Draw : use to draw round. 
 * Reload : Reload the game. 
  
 >For example,  
