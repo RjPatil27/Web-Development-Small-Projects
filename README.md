@@ -49,7 +49,7 @@ Whoever has total near 21, wins a game. \
 \
 Here we are three options, 
 * Pick : use to pick card from deck. 
-* Draw : use to draw round. 
+* Draw : use to End one side of USER or Computer's side. 
 * Reload : Reload the game. 
  
 >For example,  
