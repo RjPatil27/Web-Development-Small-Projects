@@ -1,1 +1,1 @@
-//This is JS file for Blackjack assignment
+//This is JS file for Blackjack Project.
