@@ -1,4 +1,4 @@
-# JavaScript
+# Web Development Small Projects
 
 ## [Project 1 : Convert Your Age into Days.](https://github.com/RjPatil27/JavaScript/tree/master/Project%201)
   This is simple project mainly created to understand JavaScript.\
